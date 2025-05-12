@@ -46,6 +46,8 @@
 - **ORM**: JPA + Hibernate
 - **배포**: `AWS EC2` 인스턴스 + Nginx 리버스 프록시
 - **보안**: HTTPS + SSL 인증 완료 (Let's Encrypt)
+- ![image](https://github.com/user-attachments/assets/073419b2-226c-412d-bd5b-8ec1316e0f21)
+
 
 ---
 
