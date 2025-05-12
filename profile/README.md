@@ -37,6 +37,8 @@
 - **Animation**: `Framer Motion`
 - **Image**: `next/image` 최적화
 - **State**: `Redux Toolkit`
+- ![image123](https://github.com/user-attachments/assets/127f132c-1187-4ba1-a101-45319191e48b)
+
 
 ### 🛠️ Backend
 
